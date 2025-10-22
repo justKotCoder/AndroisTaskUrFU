@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name"> Анкета </string>
+
+        <!-- Пол -->
+        <string name="gender_label">Пол</string>
+        <string name="gender_male">Мужской</string>
+        <string name="gender_female">Женский</string>
+
+        <string name="title">Анкета пользователя</string>
+        <string name="name_label">Имя</string>
+        <string name="age_label">Возраст</string>
+        <string name="subscribe_label">Хочу получать новости</string>
+        <string name="send">Отправить</string>
+        <string name="name_error_empty">Введите имя</string>
+        <string name="name_error_short">Слишком короткое имя</string>
+        <string name="summary_title">Сводка</string>
+        <string name="age_value">%1$d лет</string>
+        <string name="yes">да</string>
+        <string name="no">нет</string>
+</resources>
