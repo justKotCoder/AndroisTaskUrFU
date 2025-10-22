@@ -6,4 +6,5 @@
 
 Фреймворк для внедрения зависимостей (DI) специально не использовался, чтобы код оставался понятным. Вместо этого используется простой класс `ServiceLocator`, который вручную создаёт нужные объекты. 
 
-![Uploading image.png…]()
+<img width="451" height="939" alt="image" src="https://github.com/user-attachments/assets/504deb00-ab4d-453c-ac25-00e23a6d9b7a" />
+<img width="461" height="938" alt="image" src="https://github.com/user-attachments/assets/d1ef2c33-c2df-4a97-881c-13fe8deea90a" />
